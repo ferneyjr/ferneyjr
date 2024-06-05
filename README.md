@@ -1,16 +1,14 @@
-## Hi there 👋
+## Salve Rapaziada 🔮
 
-<!--
-**ferneyjr/ferneyjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Fernando
 
-Here are some ideas to get you started:
+- Estou estudando no Alura
+- Estou aprendendo programação
+- Utilizo o _GitHub_ para a minha organização e para compartilhar meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Entrar em contato comigo 📬
+
+fernandocarlim4@gmail.com
+
+💫@fer.carlim 
+
